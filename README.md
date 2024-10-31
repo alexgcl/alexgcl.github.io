@@ -13,6 +13,6 @@ Finally, at the bottom of my CV website, we can find the footer.
 
 Visual Design :
 
-Link Figma : https://www.figma.com/design/enDE4ci4R3T6gOCAFK0ONs/Untitled?node-id=0-1&t=J2ruykeiqA2wzrnf-1
+Link Figma: https://www.figma.com/design/enDE4ci4R3T6gOCAFK0ONs/Untitled?node-id=0-1&t=J2ruykeiqA2wzrnf-1
 
-Github Pages - Public Link : alexgcl.github.io
+Github Pages - Public Link : https://alexgcl.github.io/
