@@ -12,7 +12,7 @@ body {
 header {
     display: flex;
     align-items: center;
-    
+    background-color: #9E9E9E;
     padding: 10px;
     color: #000000;
     margin: 0;
