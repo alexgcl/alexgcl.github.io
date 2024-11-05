@@ -1,6 +1,7 @@
 # Curriculum
 
 User Profile :
+
 SCENARIO: "As a Human Resources Manager, I need to quickly avalue many CVs to identify top candidates for our team. I want CV websites that are straightforward, visually appealing, and allow me to find information quickly. I am especially interested in young and enthusiastic candidates who are eager to start working in the growing field of computer science."
 
 PERSONAL BACKGROUND: 
@@ -26,7 +27,9 @@ CANDIDATE PROFILE PREFERENCES:
 - Values candidates who demonstrate both technical skills and personal initiative.
 
 
+
 Information architecture : 
+
 To begin with, I placed my name as a title in the center of my CV website. Just below it, within the header, I included a navigation bar for easy access to each section. At the same level as my name, on the left side of the page, I positioned my profile photo.
 
 Continuing down the left sidebar, after my image, I organized basic information about myself. This section includes my contact details, a brief personal description under "About Me," and a summary of my key skills.
@@ -38,6 +41,7 @@ Finally, at the bottom of my CV website, we can find the footer.
 
 
 Visual Design :
+
 For the visual design of my CV website, I wanted to have a clean, professional look that reflects both clarity and organization, making the content easy to navigate and visually attractive. I opted for neutral colors, predominantly using shades of gray and white, which adds a sense of elegance and allows the text and images to stand out without distractions.
 
 The header section is designed with a centered title featuring my name, which immediately identifies the website as a personal CV and draws attention to my professional identity. I included a navigation bar below the header, ensuring quick access to each section and allowing users to jump directly to the information they’re looking for. The navigation links change color on hover, adding a subtle interactive element and guiding users as they explore.
