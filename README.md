@@ -52,7 +52,7 @@ The main content is divided into two columns, each with generous spacing to prev
 
 
 
-Link Figma: https://www.figma.com/design/enDE4ci4R3T6gOCAFK0ONs/Untitled?node-id=0-1&t=J2ruykeiqA2wzrnf-1
+Link Figma: https://www.figma.com/design/Y59b9WEoPi6qM5pXPCWDsz/Curriculum-Alex-Garcia-Conde-L%C3%B3pez?node-id=0-1&t=Nt4kaTbic1Og5GUw-1
 
 
 
